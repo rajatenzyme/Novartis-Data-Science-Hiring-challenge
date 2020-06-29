@@ -4,3 +4,6 @@ https://www.hackerearth.com/challenges/hiring/novartis-data-science-hiring-chall
 Score : 98.79
 
 The solution will be uploaded after the contest.
+
+## update
+Solution has been uploaded
